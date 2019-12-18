@@ -1,14 +1,14 @@
 Features.
 1) is_@_present
-2) is_call_to_action_present
+2) is_call_to_action_present (“Shop,” “Sign up,” “Discover,” “Try,” “Watch,”and “Start”)
 3) is_!_present
 4) is_capitalize_present
 5) is_link_present
 6) is_#_present
 7) is_x_present
-8) is_commend_present
-9) is_compliment_present
-10) is_excitement_present
+8) is_commend_present ("Recommend", "You should try")
+9) is_for_only_present
+10) is_excitement_present ("Great", "Exceptional", "Good", "Satisfying", "Superb", "Nice", "Pleasing", "Super", "Worthy", "Deluxe", "Astonishing", "Breathtaking", "Impressive", "Eye-popping", "Neat", "Zestful", "Cool", "Remarkable", "Effective", "Profound", "Exciting", "Noble", "Inspiring")
 11) is_money_sign_present
 12) is_%_present
 13) is_sale_present
@@ -16,7 +16,7 @@ Features.
 15) is_100%_present
 16) is_collaboration_present
 17) is_date_restriction_present
-18) is_opinion_asked
+18) is_opinion_asked ("Write your opinion in comments", "Describe your experience", "Tell me how it was")
 19) is_gift_present
 20) is_love_present
 21) is_visa_gift_present
@@ -26,7 +26,6 @@ Features.
 25) is_per_month_present
 26) is_origin_country_present
 27) is_off_present
-28) is_discount_code_present
+28) is_discount_code_present ("Promo", "Promo code", "Use this code", "Discount code", "Discount")
 29) is_free_present
 30) is_os_name_present
-31) is_for_only_present

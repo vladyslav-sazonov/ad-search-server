@@ -15,10 +15,10 @@ def get_letter_predict():
     texts = request.get_json()
     prediction = [
                     {'text': 'With DermaSun cream you will feel like your skin is perfectly soft.', 'confidence': 0.88},
-                    {'text': 'No matter if you-re in the mountains or at the beach, your Flachsmann is always there with you.', 'confidence': 0.45},
+                    {'text': 'No matter if you-re in the mountains or at the beach, your Flachsmann is always there with you.', 'confidence': 0.25},
                     {'text': 'We LOVE this travel clutch.', 'confidence': 0.88},
                     {'text': 'If your body does a sport, your wrist needs this Garmin vivoactive watch.', 'confidence': 0.91},
-                    {'text': 'WCapture every situation exquisitely with manual controls on the #GalaxyS6edgePlus 16MP camera.', 'confidence': 0.73},
+                    {'text': 'WCapture every situation exquisitely with manual controls on the #GalaxyS6edgePlus 16MP camera.', 'confidence': 0.55},
                 ]
     return jsonify(prediction)
 
